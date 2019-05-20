@@ -12,8 +12,6 @@ import org.apache.ibatis.session.SqlSessionFactoryBuilder;
 /**
  * Start MyBatis from XML.
  * 
- * @author lbt42
- *
  */
 public class Ex1 {
 
